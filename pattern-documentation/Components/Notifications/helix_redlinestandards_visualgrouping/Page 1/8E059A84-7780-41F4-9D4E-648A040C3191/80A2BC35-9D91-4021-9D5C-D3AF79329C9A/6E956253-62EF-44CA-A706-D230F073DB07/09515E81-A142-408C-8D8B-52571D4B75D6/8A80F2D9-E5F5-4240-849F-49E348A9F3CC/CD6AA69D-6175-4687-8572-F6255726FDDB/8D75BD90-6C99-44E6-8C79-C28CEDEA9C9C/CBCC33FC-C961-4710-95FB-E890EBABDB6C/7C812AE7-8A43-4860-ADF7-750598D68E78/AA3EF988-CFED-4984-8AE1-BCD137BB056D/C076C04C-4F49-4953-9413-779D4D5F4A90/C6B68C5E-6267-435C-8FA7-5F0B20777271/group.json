@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "C6B68C5E-6267-435C-8FA7-5F0B20777271",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "48ACFE61-E0D2-4204-98D3-75F6561211D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B28FF6D3-BD94-42AA-AC37-5EE6CA631A74",
+    "height": 76,
+    "width": 178,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9117AFA8-A4DD-41DF-A03F-9A10F9B19271"
+    },
+    {
+      "class": "group",
+      "id": "8D047637-7487-4510-B9A7-5D4D54843BED"
+    },
+    {
+      "class": "text",
+      "id": "516589AB-4CB3-4C2A-97B8-14199B4265C4"
+    },
+    {
+      "class": "group",
+      "id": "FE16D6AF-2420-45FA-BEBF-4FE54D1F57E9"
+    }
+  ],
+  "name": "Unlike Cloud bottom",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C60CA523-E30F-4CF6-8069-87006FEDE0EF",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9,
+      "type": 0
+    },
+    "do_objectID": "261F8096-B0EA-4244-BD19-6F55F72DD36A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "1342226B-D1FA-4917-828D-7BF0BF3D0F25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FB67B01B-1521-40E0-9E24-5B50B5F87A2F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "40166972-06D3-47E0-8202-4D95CF3DF7A4",
+    "height": 15.3,
+    "width": 12.6,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "25DAC7D1-D235-4804-BEAD-94F501626515"
+    },
+    {
+      "class": "shapePath",
+      "id": "C1ADD5CA-A6B9-4A64-83EC-C4D5212D1A27"
+    },
+    {
+      "class": "shapePath",
+      "id": "A4C79CB7-6DCD-479E-AB91-9D6F10D744C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "56025B62-F2BF-4171-858B-6EDB6B03DBC2"
+    }
+  ],
+  "name": "Imported Layers Copy 4",
+  "nameIsFixed": false,
+  "originalObjectID": "1BAD0B20-D9EE-49D1-BBE8-0222E115AAD1",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E9BD9DCF-BCBF-4D7E-AA11-BBCCA0BFC83B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.5,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 0.8,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 2,
+        "thickness": 0.9
+      }
+    ],
+    "do_objectID": "4E80471D-231C-4E38-9C40-197BFFDDC115",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 3,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

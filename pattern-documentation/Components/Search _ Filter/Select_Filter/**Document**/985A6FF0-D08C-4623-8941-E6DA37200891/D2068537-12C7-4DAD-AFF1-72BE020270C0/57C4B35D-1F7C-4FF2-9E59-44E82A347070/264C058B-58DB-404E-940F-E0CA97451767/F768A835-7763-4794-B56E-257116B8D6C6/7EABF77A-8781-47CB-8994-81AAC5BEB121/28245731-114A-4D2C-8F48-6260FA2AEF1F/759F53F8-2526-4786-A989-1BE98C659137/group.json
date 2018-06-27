@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "759F53F8-2526-4786-A989-1BE98C659137",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCB1C0B0-A616-4250-B766-8411AC32A6B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5DBE7A14-55E3-4701-B55D-9D539F0A4966",
+    "height": 56,
+    "width": 128,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2DBC6E7B-9B66-4181-913F-1E0109EAC73B"
+    },
+    {
+      "class": "text",
+      "id": "F1CFCDD4-81F0-44F8-9D3D-640ED59F7DF4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E988FBE-BA40-4454-9819-5F623BBDCA3D"
+    }
+  ],
+  "name": "pilot / platform-nav-item / wall / default",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "726172FA-1C0C-433B-BB5F-314B03FC432E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

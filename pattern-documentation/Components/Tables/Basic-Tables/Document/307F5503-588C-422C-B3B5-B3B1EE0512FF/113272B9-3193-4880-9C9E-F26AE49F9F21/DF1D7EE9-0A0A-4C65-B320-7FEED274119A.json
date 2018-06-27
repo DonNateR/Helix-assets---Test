@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DF1D7EE9-0A0A-4C65-B320-7FEED274119A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D27756A8-EF57-4C8B-97F7-42946C6AB561",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E1E58BD9-F56A-4A72-A5C5-D6DDB72CF0E8",
+    "height": 32,
+    "width": 116,
+    "x": 0,
+    "y": 166
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Buttons / Standard",
+  "nameIsFixed": false,
+  "originalObjectID": "0C2D402B-EF86-4B71-BEC4-CD7AC4D096C0",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A434F37E-25C0-4A10-983C-ADD04EC31DC3",
+      "overrideName": "C2CDC604-66DD-4E41-94E4-6433E94A1369/19A721D0-341B-43EA-BAE2-0FB5F4AB0236/0BCFBCFD-4126-4314-BBFB-A7FA84A0DA05_stringValue",
+      "value": "Primary Action"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3245B0CD-A720-44A5-86ED-915F75B0CF4D",
+      "overrideName": "149C46B7-AD2A-4275-98F8-B2EBF8D65E7A_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "149C46B7-AD2A-4275-98F8-B2EBF8D65E7A": {
+      "symbolID": ""
+    },
+    "C2CDC604-66DD-4E41-94E4-6433E94A1369": {
+      "19A721D0-341B-43EA-BAE2-0FB5F4AB0236": {
+        "0BCFBCFD-4126-4314-BBFB-A7FA84A0DA05": "Primary Action"
+      }
+    }
+  },
+  "resizingConstraint": 57,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AD6147D2-6010-4401-8927-5D6B95F12D5D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F14E8B73-6C63-4C3B-B488-5C97664BD9C0",
+  "verticalSpacing": 0
+}

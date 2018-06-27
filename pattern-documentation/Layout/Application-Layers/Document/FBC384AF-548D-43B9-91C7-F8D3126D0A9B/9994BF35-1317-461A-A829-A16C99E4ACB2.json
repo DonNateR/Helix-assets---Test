@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9994BF35-1317-461A-A829-A16C99E4ACB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 316,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "help/ background",
+  "nameIsFixed": false,
+  "overrides": {
+    "941FBABD-A37A-46A1-883D-AA3565E972CA": "Animation",
+    "E462B970-04E7-4105-B2B2-D485B93E6FFF": "Use the section symbols below to document things like distance, timing, easing in and out, etc.  \n\nUse the image boxes as placeholders for your animated gifs, or videos, making sure to provide the filename for each one.\n\nSave your example animations in the GitHub repo folder named assets/animations, using the filename you provided.\n\nFor example: \"/assets/animations/loading-spinner.gif\"",
+    "FC0D42B0-36EF-4794-BE15-884EB6AE040D": {
+      "3A9AE7DA-AAC3-4330-B253-7C0F184D31D2": {
+        "symbolID": "1C553E2E-5E66-400C-9B64-2470D3E74432"
+      },
+      "DC175DF7-D674-45F1-99E2-B40226C1B1B3": {
+        "symbolID": ""
+      },
+      "symbolID": "6B7DB146-6215-4292-B52B-C42047B75A6B"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2664E371-0EA6-4C4E-A0DA-49BDB9FFCAC4",
+  "verticalSpacing": 0
+}

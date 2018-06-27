@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "A5C6822B-0358-46C3-BB09-B443101CBDA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ACD96759-AE3F-4324-B974-FA97822E1FE7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B8E3E62-DE14-4432-9F8F-6945DA208929",
+    "height": 15,
+    "width": 15,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C0E937DA-E5BA-4AF9-989F-6ED76375F145"
+    }
+  ],
+  "name": "help",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "E251F871-8653-40FD-8319-C865F1A55F1E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9,
+      "type": 0
+    },
+    "do_objectID": "3E71122D-6797-4E50-ADE3-812B3D5B2E53",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "37B46AB2-815F-4803-B5E9-987D5F96C494",
+        "version": 5
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "D3E0DECF-FE99-483D-A8D3-AA57BDE419F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B16B9FF-F847-4BCD-A692-C48B3132230D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1FCD0731-E256-4A8F-9367-FE29604BEE3C",
+    "height": 1.445192086255659,
+    "width": 691.0575139146567,
+    "x": 53.26901669758811,
+    "y": 109.892872429873
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2BBC6056-ECBC-4E01-9A91-38B254CACB76"
+    }
+  ],
+  "name": "Stroke 11",
+  "nameIsFixed": false,
+  "originalObjectID": "B45980E5-DF90-4C36-8081-A2FF25BA6CC4",
+  "resizingConstraint": 55,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1DBB5FF3-9C34-456D-A79E-823A7DF89997",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.2,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.878,
+          "green": 0.878,
+          "red": 0.878
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 0.7200000000000001
+      }
+    ],
+    "do_objectID": "184FFBD2-22BC-4197-AA8B-7ED75F496EE3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

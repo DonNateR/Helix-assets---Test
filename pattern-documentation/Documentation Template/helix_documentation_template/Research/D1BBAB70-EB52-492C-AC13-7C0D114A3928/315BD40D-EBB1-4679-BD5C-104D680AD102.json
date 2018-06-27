@@ -1,0 +1,106 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2588235294117647,
+            "green": 0.2588235294117647,
+            "red": 0.2588235294117647
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 945,
+        "location": 0
+      }
+    ],
+    "string": "This is where you throw all the research for your pattern. Typically it’s just a bunch of screenshots from different companies / sites / apps, even from Rackspace’s current and previous designs. Even better, put some notes next to the screenshots to give your thoughts on what works, doesn’t work, etc.\n\n• How is this different from the “Research” artboard on the “Document” page? This Sketch page is a big dump for all the research. The “Research” artboard on the “Document” page is for synthesizing that research into a few images that help the user (a designer / researcher) understand how you came to your current designs. So *this* page is a dump. The “Research” artboard on the “Document” page is a synthesis. \n\n• How is this different than Explorations page? This is where you figure out what’s out there. Explorations is where you take all that research and explore what *we* could do. “Document” is where we document what we decided on."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "315BD40D-EBB1-4679-BD5C-104D680AD102",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 288,
+    "width": 796,
+    "x": 32,
+    "y": 192
+  },
+  "glyphBounds": "{{0, 4}, {795, 278}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "description",
+  "nameIsFixed": true,
+  "resizingConstraint": 33,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3ED03A70-6B3B-4F17-A17D-5EDD48BC450C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "22EE0D3A-429B-4AF9-970C-3D1FC2F33F89",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2588235294117647,
+          "green": 0.2588235294117647,
+          "red": 0.2588235294117647
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 16
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 1
+}
