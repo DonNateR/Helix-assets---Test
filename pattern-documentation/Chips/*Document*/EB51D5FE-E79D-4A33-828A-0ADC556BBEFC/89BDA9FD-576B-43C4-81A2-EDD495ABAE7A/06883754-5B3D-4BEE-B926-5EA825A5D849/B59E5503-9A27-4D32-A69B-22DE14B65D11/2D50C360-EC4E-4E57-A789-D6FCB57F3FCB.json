@@ -1,10 +1,25 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGPj9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEQcIDxAaGxwdISkqKywtNDg6VSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAEIADXU1vZGlmaWVkIERhdGXTERIKExYZV05TLmtleXNaTlMub2JqZWN0c6IUFYAEgAWiFxiABoAHgA9aTlNMaWdhdHVyZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGUQANIKHh8gXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOADoAI0xESCiIlKKIjJIAJgAqiJieAC4AMgA1fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKgAAAAAAAF5Sb2JvdG8tUmVndWxhctIuLzAxWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozAyM1xOU0RpY3Rpb25hcnlYTlNPYmplY3TSLi81Nl8QEE5TRm9udERlc2NyaXB0b3KiNzNfEBBOU0ZvbnREZXNjcmlwdG9y0i4vMjmiMjPSLi87PF8QEk5TQXR0cmlidXRlZFN0cmluZ6I9M18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFAQVRyb290gAEACAARABoAIwAtADIANwBLAFEAWABhAGgAdQB3AHkAewCJAJAAmACjAKYAqACqAK0ArwCxALMAvgDgAOIA5wEEAQYBCAEPARIBFAEWARkBGwEdAR8BNQFLAVQBYwFoAXMBfAGSAZYBowGsAbEBxAHHAdoB3wHiAecB/AH/AhQCJgIpAi4AAAAAAAACAQAAAAAAAABCAAAAAAAAAAAAAAAAAAACMA=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 13
+            }
+          },
+          "ligature": 0
+        },
+        "length": 13,
+        "location": 0
+      }
+    ],
+    "string": "Modified Date"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "2D50C360-EC4E-4E57-A789-D6FCB57F3FCB",
@@ -66,7 +81,11 @@
       "_class": "textStyle",
       "encodedAttributes": {
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKgAAAAAAAF5Sb2JvdG8tUmVndWxhctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDiAOcA8gD7AREBFQEiASsBMAFDAUYBWQFrAW4BcwAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF1"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 13
+          }
         },
         "ligature": 0
       },
