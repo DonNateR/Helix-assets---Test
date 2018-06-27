@@ -46,6 +46,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -89,6 +90,10 @@
     {
       "class": "shapeGroup",
       "id": "1E8D44A2-87B0-4274-B11E-CCDB541F6932"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "88E161F3-870F-415F-93CF-14CA677EE908"
     }
   ],
   "name": "GettingStarted_Lean_02",
@@ -97,7 +102,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
