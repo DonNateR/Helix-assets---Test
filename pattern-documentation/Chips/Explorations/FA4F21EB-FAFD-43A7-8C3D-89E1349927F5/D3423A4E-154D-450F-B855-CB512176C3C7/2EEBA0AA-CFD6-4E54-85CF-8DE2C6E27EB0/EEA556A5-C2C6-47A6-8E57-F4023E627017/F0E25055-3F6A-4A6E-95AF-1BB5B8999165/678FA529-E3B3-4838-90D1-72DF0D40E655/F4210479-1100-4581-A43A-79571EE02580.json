@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F4210479-1100-4581-A43A-79571EE02580",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "79F8031C-EC48-4CA5-9B7F-9DFDA0505134",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC4A6071-0F14-44AC-869F-5ABB9E2285F3",
+    "height": 40,
+    "width": 40,
+    "x": 127,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "User Chip",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "03B76C16-50C1-4706-8A55-61BEC0CF1FE4_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/580e46416abafec324fa8ae2ffe13d2556e4f0c0",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "03B76C16-50C1-4706-8A55-61BEC0CF1FE4": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/580e46416abafec324fa8ae2ffe13d2556e4f0c0",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CABC7816-DE63-41C5-BEC5-E5DECFC52591",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9E55A3A3-9C6A-4E0E-8659-89F4A19399C5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

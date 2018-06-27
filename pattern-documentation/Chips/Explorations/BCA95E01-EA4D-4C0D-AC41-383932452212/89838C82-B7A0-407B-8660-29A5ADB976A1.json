@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "89838C82-B7A0-407B-8660-29A5ADB976A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 112,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "User Chip",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "03B76C16-50C1-4706-8A55-61BEC0CF1FE4_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/29dc4990d0df0b3d44ea62ae605cf3855b635453",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "03B76C16-50C1-4706-8A55-61BEC0CF1FE4": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/29dc4990d0df0b3d44ea62ae605cf3855b635453",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9E55A3A3-9C6A-4E0E-8659-89F4A19399C5",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
